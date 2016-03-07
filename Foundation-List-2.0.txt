@@ -205,15 +205,15 @@
 		wax
 		wood
 		wool
-    [~Music]
-        classical
-        metal
-            death
-            thrash
-        psytrance
-        punk
-        rock
-        jazz
+	[~Music]
+		classical
+		metal
+			death
+			thrash
+		psytrance
+		punk
+		rock
+		jazz
 	[~Number]
 		four people
 		group of animals
@@ -234,10 +234,10 @@
 		three people
 		two animals
 		two people
-    [~Place]
-        city
-        town
-        village
+	[~Place]
+		city
+		town
+		village
 	[~Relationship]
 		aunt
 		brother
@@ -293,7 +293,7 @@
 		top view
 	[~Effect]
 		bokeh
-        hdr
+		hdr
 		lens zoom
 		light trail
 		long exposure
@@ -332,10 +332,10 @@
 	[~Type Of Photography]
 		abstract photography
 		architectural detail
-        aerial photography
+		aerial photography
 		astrophotography
 		candid shot
-        city skyline
+		city skyline
 		food photography
 		glamour photography
 		landscape photography
@@ -343,7 +343,7 @@
 		pet photography
 		portrait photography
 		rural photography
-        selfie
+		selfie
 		sport photography
 		still life photography
 		street photography
@@ -421,9 +421,9 @@
 			lizard
 			snake
 			turtle
-        spider
+		spider
 	[~Art]
-        graffiti
+		graffiti
 		mosaic
 		ornament
 		painting
@@ -468,7 +468,7 @@
 		flower bud
 		foot
 		fruit
-        fungi
+		fungi
 		fur
 		hair
 		hand
@@ -636,7 +636,7 @@
 		hill
 		island
 		isthmus
-        jungle
+		jungle
 		levee
 			{dike}
 			{floodbank}
@@ -671,10 +671,10 @@
 			{snowslip}
 		earthquake
 			{quake}
-        eclipse
-            lunar
-            solar
-            total
+		eclipse
+			lunar
+			solar
+			total
 		flood
 		landslide
 		sinkhole
@@ -696,7 +696,7 @@
 			mist
 			overcast
 			rain
-            rainbow
+			rainbow
 			snow
 			storm
 			sunny
@@ -752,8 +752,8 @@
 			gameboard
 				{board}
 		bottle
-            beer
-            wine
+			beer
+			wine
 		boutonniere
 		bow tie
 		box
@@ -934,7 +934,7 @@
 			tumbler
 				shot glass
 				water glass
-                pint glass
+				pint glass
 		glove
 		hair pin
 			{hair stick}
@@ -1108,7 +1108,7 @@
 			slipper
 			sneaker
 			stiletto heel
-        sign
+		sign
 		soap
 		speaker
 		stationery
@@ -1255,7 +1255,7 @@
 		journalist
 		lawyer
 		military officer
-        musician
+		musician
 		nurse
 		pharmacist
 		photographer
@@ -1347,7 +1347,7 @@
 			synchronized swimming
 		tennis
 		track and field
-        trekking
+		trekking
 		underwater diving
 			{diving}
 			freediving
@@ -1451,7 +1451,7 @@
 			{patio}
 		defensive wall
 		department store
-        dive bar
+		dive bar
 		dormitory
 			{dorm}
 		eatery
@@ -1552,8 +1552,9 @@
 		stadium
 		stall
 		stock exchange
-        street market
-        stupa
+		street market
+		stupa
+			{chorten}
 		supermarket
 		synagogue
 		tavern
