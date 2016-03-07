@@ -205,6 +205,15 @@
 		wax
 		wood
 		wool
+    [~Music]
+        classical
+        metal
+            death
+            thrash
+        psytrance
+        punk
+        rock
+        jazz
 	[~Number]
 		four people
 		group of animals
@@ -225,6 +234,10 @@
 		three people
 		two animals
 		two people
+    [~Place]
+        city
+        town
+        village
 	[~Relationship]
 		aunt
 		brother
@@ -280,6 +293,7 @@
 		top view
 	[~Effect]
 		bokeh
+        hdr
 		lens zoom
 		light trail
 		long exposure
@@ -318,8 +332,10 @@
 	[~Type Of Photography]
 		abstract photography
 		architectural detail
+        aerial photography
 		astrophotography
 		candid shot
+        city skyline
 		food photography
 		glamour photography
 		landscape photography
@@ -327,6 +343,7 @@
 		pet photography
 		portrait photography
 		rural photography
+        selfie
 		sport photography
 		still life photography
 		street photography
@@ -362,7 +379,6 @@
 			larva
 			mosquito
 			nymph
-			spider
 		mammal
 			bear
 			bull
@@ -393,7 +409,7 @@
 				piglet
 			rabbit
 			sheep
-				lamp
+				lamb
 					calf
 			tiger
 			whale
@@ -405,7 +421,9 @@
 			lizard
 			snake
 			turtle
+        spider
 	[~Art]
+        graffiti
 		mosaic
 		ornament
 		painting
@@ -450,6 +468,7 @@
 		flower bud
 		foot
 		fruit
+        fungi
 		fur
 		hair
 		hand
@@ -617,6 +636,7 @@
 		hill
 		island
 		isthmus
+        jungle
 		levee
 			{dike}
 			{floodbank}
@@ -651,6 +671,10 @@
 			{snowslip}
 		earthquake
 			{quake}
+        eclipse
+            lunar
+            solar
+            total
 		flood
 		landslide
 		sinkhole
@@ -672,6 +696,7 @@
 			mist
 			overcast
 			rain
+            rainbow
 			snow
 			storm
 			sunny
@@ -727,6 +752,8 @@
 			gameboard
 				{board}
 		bottle
+            beer
+            wine
 		boutonniere
 		bow tie
 		box
@@ -907,6 +934,7 @@
 			tumbler
 				shot glass
 				water glass
+                pint glass
 		glove
 		hair pin
 			{hair stick}
@@ -1080,6 +1108,7 @@
 			slipper
 			sneaker
 			stiletto heel
+        sign
 		soap
 		speaker
 		stationery
@@ -1226,6 +1255,7 @@
 		journalist
 		lawyer
 		military officer
+        musician
 		nurse
 		pharmacist
 		photographer
@@ -1317,6 +1347,7 @@
 			synchronized swimming
 		tennis
 		track and field
+        trekking
 		underwater diving
 			{diving}
 			freediving
@@ -1420,6 +1451,7 @@
 			{patio}
 		defensive wall
 		department store
+        dive bar
 		dormitory
 			{dorm}
 		eatery
@@ -1520,6 +1552,8 @@
 		stadium
 		stall
 		stock exchange
+        street market
+        stupa
 		supermarket
 		synagogue
 		tavern
