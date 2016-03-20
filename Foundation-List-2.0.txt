@@ -735,6 +735,9 @@
 			thermal bag
 		bearing
 		belt
+		beverage
+			beer
+			wine
 		board game
 			backgammon
 			card
@@ -757,6 +760,8 @@
 		boutonniere
 		bow tie
 		box
+		can
+			beer can
 		cane
 		carpet
 		casino token
@@ -873,6 +878,9 @@
 		firework
 		fishing rod
 			{fishing pole}
+		food
+			mexican food
+			thai food
 		freezer
 		furniture
 			bean bag
@@ -1418,6 +1426,8 @@
 		bakery
 		bank
 		bar
+			dive bar
+			beach bar
 		barn
 		barrack
 		basilica
@@ -1451,7 +1461,6 @@
 			{patio}
 		defensive wall
 		department store
-		dive bar
 		dormitory
 			{dorm}
 		eatery
