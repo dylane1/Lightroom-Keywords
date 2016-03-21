@@ -440,7 +440,6 @@
 		beak
 		bone
 		brain
-		branch
 		breast
 		cheek
 		chest
@@ -465,10 +464,7 @@
 			thumb
 		fingernail
 			{nail}
-		flower bud
 		foot
-		fruit
-		fungi
 		fur
 		hair
 		hand
@@ -476,8 +472,6 @@
 		heart
 		hoof
 		horn
-		leaf
-		leaf bud
 		leg
 		lips
 		mane
@@ -487,30 +481,18 @@
 		nose
 		nostril
 		paw
-		petal
-		pistil
-		root
-		seed
-		sepal
 		shell
 		skeleton
 		skull
 		snout
-		stamen
-		stem
-		stemen
-		stigma
 		sting
 		tail
 		tentacle
-		thorn
 		toe
 		toenail
 			{nail}
 		tongue
 		tooth
-		tree trunk
-			{trunk}
 		tusk
 		whisker
 		wing
@@ -672,9 +654,9 @@
 		earthquake
 			{quake}
 		eclipse
-			lunar
-			solar
-			total
+			lunar eclipse
+			solar eclipse
+			total eclipse
 		flood
 		landslide
 		sinkhole
@@ -755,8 +737,8 @@
 			gameboard
 				{board}
 		bottle
-			beer
-			wine
+			beer bottle
+			wine bottle
 		boutonniere
 		bow tie
 		box
@@ -879,8 +861,14 @@
 		fishing rod
 			{fishing pole}
 		food
+			chinese food
 			mexican food
 			thai food
+			seafood
+			soup
+			russian food
+			malaysian food
+			vietnamese food
 		freezer
 		furniture
 			bean bag
@@ -1238,6 +1226,26 @@
 		wedge
 		wheel
 		wire rope
+	[~Plant]
+		branch
+		flower bud
+		fruit
+		fungi
+		leaf
+		leaf bud
+		petal
+		pistil
+		root
+		seed
+		sepal
+		stamen
+		stem
+		stemen
+		stigma
+		thorn
+		tree trunk
+			{trunk}
+		wild flower
 	[~Profession]
 		accountant
 		architect
@@ -1481,6 +1489,7 @@
 		grocery store
 		gurdwara
 		gymnasium
+		historic building
 		hospital
 		hostel
 		hotel
