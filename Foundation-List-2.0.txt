@@ -205,6 +205,15 @@
 		wax
 		wood
 		wool
+	[~Music]
+		classical
+		metal
+			death
+			thrash
+		psytrance
+		punk
+		rock
+		jazz
 	[~Number]
 		four people
 		group of animals
@@ -225,6 +234,10 @@
 		three people
 		two animals
 		two people
+	[~Place]
+		city
+		town
+		village
 	[~Relationship]
 		aunt
 		brother
@@ -280,6 +293,7 @@
 		top view
 	[~Effect]
 		bokeh
+		hdr
 		lens zoom
 		light trail
 		long exposure
@@ -318,8 +332,10 @@
 	[~Type Of Photography]
 		abstract photography
 		architectural detail
+		aerial photography
 		astrophotography
 		candid shot
+		city skyline
 		food photography
 		glamour photography
 		landscape photography
@@ -327,6 +343,7 @@
 		pet photography
 		portrait photography
 		rural photography
+		selfie
 		sport photography
 		still life photography
 		street photography
@@ -362,7 +379,6 @@
 			larva
 			mosquito
 			nymph
-			spider
 		mammal
 			bear
 			bull
@@ -393,7 +409,7 @@
 				piglet
 			rabbit
 			sheep
-				lamp
+				lamb
 					calf
 			tiger
 			whale
@@ -405,7 +421,9 @@
 			lizard
 			snake
 			turtle
+		spider
 	[~Art]
+		graffiti
 		mosaic
 		ornament
 		painting
@@ -422,7 +440,6 @@
 		beak
 		bone
 		brain
-		branch
 		breast
 		cheek
 		chest
@@ -447,9 +464,7 @@
 			thumb
 		fingernail
 			{nail}
-		flower bud
 		foot
-		fruit
 		fur
 		hair
 		hand
@@ -457,8 +472,6 @@
 		heart
 		hoof
 		horn
-		leaf
-		leaf bud
 		leg
 		lips
 		mane
@@ -468,30 +481,18 @@
 		nose
 		nostril
 		paw
-		petal
-		pistil
-		root
-		seed
-		sepal
 		shell
 		skeleton
 		skull
 		snout
-		stamen
-		stem
-		stemen
-		stigma
 		sting
 		tail
 		tentacle
-		thorn
 		toe
 		toenail
 			{nail}
 		tongue
 		tooth
-		tree trunk
-			{trunk}
 		tusk
 		whisker
 		wing
@@ -617,6 +618,7 @@
 		hill
 		island
 		isthmus
+		jungle
 		levee
 			{dike}
 			{floodbank}
@@ -651,6 +653,10 @@
 			{snowslip}
 		earthquake
 			{quake}
+		eclipse
+			lunar eclipse
+			solar eclipse
+			total eclipse
 		flood
 		landslide
 		sinkhole
@@ -672,6 +678,7 @@
 			mist
 			overcast
 			rain
+			rainbow
 			snow
 			storm
 			sunny
@@ -710,6 +717,9 @@
 			thermal bag
 		bearing
 		belt
+		beverage
+			beer
+			wine
 		board game
 			backgammon
 			card
@@ -727,9 +737,13 @@
 			gameboard
 				{board}
 		bottle
+			beer bottle
+			wine bottle
 		boutonniere
 		bow tie
 		box
+		can
+			beer can
 		cane
 		carpet
 		casino token
@@ -846,6 +860,15 @@
 		firework
 		fishing rod
 			{fishing pole}
+		food
+			chinese food
+			mexican food
+			thai food
+			seafood
+			soup
+			russian food
+			malaysian food
+			vietnamese food
 		freezer
 		furniture
 			bean bag
@@ -907,6 +930,7 @@
 			tumbler
 				shot glass
 				water glass
+				pint glass
 		glove
 		hair pin
 			{hair stick}
@@ -1080,6 +1104,7 @@
 			slipper
 			sneaker
 			stiletto heel
+		sign
 		soap
 		speaker
 		stationery
@@ -1201,6 +1226,26 @@
 		wedge
 		wheel
 		wire rope
+	[~Plant]
+		branch
+		flower bud
+		fruit
+		fungi
+		leaf
+		leaf bud
+		petal
+		pistil
+		root
+		seed
+		sepal
+		stamen
+		stem
+		stemen
+		stigma
+		thorn
+		tree trunk
+			{trunk}
+		wild flower
 	[~Profession]
 		accountant
 		architect
@@ -1226,6 +1271,7 @@
 		journalist
 		lawyer
 		military officer
+		musician
 		nurse
 		pharmacist
 		photographer
@@ -1317,6 +1363,7 @@
 			synchronized swimming
 		tennis
 		track and field
+		trekking
 		underwater diving
 			{diving}
 			freediving
@@ -1387,6 +1434,8 @@
 		bakery
 		bank
 		bar
+			dive bar
+			beach bar
 		barn
 		barrack
 		basilica
@@ -1440,6 +1489,7 @@
 		grocery store
 		gurdwara
 		gymnasium
+		historic building
 		hospital
 		hostel
 		hotel
@@ -1520,6 +1570,9 @@
 		stadium
 		stall
 		stock exchange
+		street market
+		stupa
+			{chorten}
 		supermarket
 		synagogue
 		tavern
