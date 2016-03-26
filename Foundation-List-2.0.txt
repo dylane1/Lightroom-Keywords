@@ -208,8 +208,8 @@
 	[~Music]
 		classical
 		metal
-			death
-			thrash
+			death metal
+			thrash metal
 		psytrance
 		punk
 		rock
@@ -335,7 +335,7 @@
 		aerial photography
 		astrophotography
 		candid shot
-		city skyline
+		cityscape
 		food photography
 		glamour photography
 		landscape photography
@@ -376,10 +376,13 @@
 			chrysalis
 			cricket
 			fly
+			grasshopper
 			larva
+			moth
 			mosquito
 			nymph
 		mammal
+			bat
 			bear
 			bull
 			cat
@@ -505,6 +508,10 @@
 		moon
 		nebula
 		planet
+			mars
+			jupiter
+			saturn
+			venus
 		star
 		sun
 	[~Concept]
@@ -587,6 +594,8 @@
 		party
 		reunion
 		symposium
+	[~Fungi]
+		 bracket fungi
 	[~Land]
 		arete
 		beach
@@ -1230,7 +1239,6 @@
 		branch
 		flower bud
 		fruit
-		fungi
 		leaf
 		leaf bud
 		petal
@@ -1243,9 +1251,12 @@
 		stemen
 		stigma
 		thorn
-		tree trunk
-			{trunk}
-		wild flower
+		tree
+			tree trunk
+				{trunk}
+		vegetable
+		vine
+		wildflower
 	[~Profession]
 		accountant
 		architect
